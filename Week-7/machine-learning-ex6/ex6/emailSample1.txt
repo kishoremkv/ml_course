@@ -1,0 +1,28 @@
+WhatsApp is India's leading messaging application, making it an effective customer engagement channel for small and large businesses across different industries. As a verified WhatsApp Business solution provider, we can help you seamlessly integrate WhatsApp Business APIs and deliver superior customer engagement.  
+
+Multiple surveys indicate that customers now turn to messaging across the entire customer journey and expect real-time updates, faster response times, and smarter resolutions. Our WhatsApp Business API solution delivers these by enabling businesses to automate notifications & alerts, configure a media-rich 2-way communication channel, and quickly build and launch customer journeys on WhatsApp. 
+Know More
+Automate Transactional Notifications & Product Updates
+
+Reach your customers on their favorite messaging app and get better read and response rates for your transactional notifications, product and service updates, alerts, OTPs and more! Textlocal offers you comprehensive APIs to quickly integrate and trigger WhatsApp messages from your backend systems, CRM applications, mobile applications, or any other software. 
+
+    Go beyond 160 characters. With a 1024-character limit, WA messages deliver a lot more information than SMS. Businesses find it more cost-effective to send regional language texts and lengthier updates (e.g. ticket details) via WhatsApp.
+    International reach made easy. WhatsApp allows you to reach customers across 180 countries easily and affordably with a single number and account. Get rid of local regulation complexities!  
+    Share media-rich texts, containing audio files, video files, documents, images, or location. The use cases are limitless - Businesses can now offer superior customer experience by sharing insurance policy statements, invoices, product demos, delivery location and other files over WA.
+
+How can your business use WhatsApp transactional notifications?
+For a quick demo, WhatsApp "Hi" to +91-40-30858603
+Provide Real-time Customer Support
+
+WhatsApp empowers businesses to provide real-time 2-way customer support with cost-effective "session" messages. Messages sent by the business within 24 hours of receiving a message are classified as "session" messages.
+
+Implement conversational messaging for providing customer service by integrating our APIs to send and receive messages. Alternatively, contact us to know more about our enterprise-grade, omni-channel chat platform IMIchat. We also deliver powerful AI-assisted bots to automate customer service.
+
+
+Quickly Automate Customer Journeys on WhatsApp
+
+Add WhatsApp Business Solution to your customer communications mix and automate end-to-end customer journeys in minutes with IMIconnect. Embrace a communications strategy that targets customer touchpoints through the customer lifecycle.
+
+    Our easy-to-use flow builder (shown below) offers 20+ pre-built nodes and 10+ channels out-of-the-box for interactive communication automation and to help you engage with customers 10x faster.
+    Fall back on SMS for your time-sensitive messages if a customer is not online. Easily set this up using our visual flow builder. 
+    Automate inbound queries and enable conversational customer engagement using our integrated NLP and AI capabilities. Get access to 15+ pre-built NLP functions on chatbots such as date/time recognition, sentiment analysis and more.
