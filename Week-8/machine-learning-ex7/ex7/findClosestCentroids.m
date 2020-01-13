@@ -20,7 +20,18 @@ idx = zeros(size(X,1), 1);
 %
 % Note: You can use a for-loop over the examples to compute this.
 %
-
+for i = 1:size(X,1)
+    min = 10000000;
+    minidx = 0;
+    for j =1:K
+        if min>norm(X(i,:)-centroids(j,:))
+            min = norm(X(i,:)-centroids(j,:));
+            minidx = j;
+        end
+    end
+    idx(i) = minidx;
+end
+    
 
 
 
