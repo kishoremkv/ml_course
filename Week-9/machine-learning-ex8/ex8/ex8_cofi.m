@@ -45,7 +45,7 @@ pause;
 %% ============ Part 2: Collaborative Filtering Cost Function ===========
 %  You will now implement the cost function for collaborative filtering.
 %  To help you debug your cost function, we have included set of weights
-%  that we trained on that. Specifically, you should complete the code in 
+%  that we trained on that. Specifically, you sho   uld complete the code in 
 %  cofiCostFunc.m to return J.
 
 %  Load pre-trained weights (X, Theta, num_users, num_movies, num_features)
@@ -110,6 +110,7 @@ fprintf('\nChecking Gradients (with regularization) ... \n');
 
 %  Check gradients by running checkNNGradients
 checkCostFunction(1.5);
+
 
 fprintf('\nProgram paused. Press enter to continue.\n');
 pause;
